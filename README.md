@@ -1,4 +1,4 @@
-![logo](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630)
+![logo](https://media4.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=6c09b9529302fhq6i2o9gmxkikg4kxpg5h7exaj09kkllz9w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 <h1 align="center">Hi 👋, I'm SOURAV KUMAR</h1>
 <h3 align="center">A passionate Software Engineer and Developer from India, working with Artificial Intelligence and Machine Learning.</h3>
