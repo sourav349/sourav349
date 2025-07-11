@@ -82,7 +82,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav349&show_icons=true&locale=en" alt="sourav349" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav349&" alt="sourav349" /></p>
+<img align="center" src="https://streak-stats.demolab.com?user=sourav349" alt="sourav349" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourav349/sourav349/output/github-snake-dark.svg" />
