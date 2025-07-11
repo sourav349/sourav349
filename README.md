@@ -78,11 +78,18 @@
 <p><a href="https://www.buymeacoffee.com/kumarsourav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarsourav" /></a>
 <a href="https://ko-fi.com/souravkumar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="souravkumar" /></a></p><br><br>
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav349&show_icons=true&locale=en&layout=compact" alt="sourav349" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav349&show_icons=true&locale=en" alt="sourav349" /></p>
 
-<img align="center" src="https://streak-stats.demolab.com?user=sourav349" alt="sourav349" />
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav349&v=1" alt="sourav349" />
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourav349/sourav349/output/github-snake-dark.svg" />
