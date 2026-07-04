@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SOURAV KUMAR</h1>
 <h3 align="center">A passionate Software Engineer and Developer from India, working with Artificial Intelligence and Machine Learning.</h3>
 
-<img align="right" alt="coding" width="400" src="https://mohitkr777.medium.com/ship-fast-culture-is-just-speedrunning-tech-debt-fd475dc6dd30">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav349&label=Profile%20views&color=0e75b6&style=flat" alt="sourav349" /> </p>
 
