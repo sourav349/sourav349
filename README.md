@@ -65,7 +65,6 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="nlp" width="40" height="40"/></a>
 <a href="https://huggingface.co/" target="_blank">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
-<!-- Streamlit -->
 <a href="https://streamlit.io/" target="_blank">
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/></a>
 
