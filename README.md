@@ -29,7 +29,7 @@
 <a href="https://instagram.com/sourav_agarwal_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kumarsourav240" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumarsourav2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kumarsourav2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sourav2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sourav_agarwal_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kumarsourav2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumarsoukd4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
@@ -56,31 +56,16 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-
-  <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<!-- FastAPI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
-</a>
-
-<!-- C++ -->
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://isocpp.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<!-- NLP (spaCy) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://spacy.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="nlp" width="40" height="40"/>
-</a>
-
-<!-- LLM (Hugging Face) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="nlp" width="40" height="40"/></a>
 <a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-</a>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
 
 </p>
 
