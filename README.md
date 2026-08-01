@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://souravk-portfolio.vercel.app/](https://souravk-portfolio.vercel.app/)
 
-- 💬 Ask me about **React C++, Python, CNN**
+- 💬 Ask me about **React, C++, Python, CNN**
 
 - 📫 How to reach me **kumarsourav2401@gmail.com**
 
