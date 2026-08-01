@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/souravkuma23059" target="blank"><img src="https://img.shields.io/twitter/follow/souravkuma23059?logo=twitter&style=for-the-badge" alt="souravkuma23059" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML, Next.js, OpenCV, Java, etc**
+- 🌱 I’m currently learning **AI/ML, LLM, RAG, OpenCV, etc**
 
 - 👨‍💻 All of my projects are available at [https://souravk-portfolio.vercel.app/](https://souravk-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript, C++, Python, TypeScript**
+- 💬 Ask me about **React C++, Python, CNN**
 
 - 📫 How to reach me **kumarsourav2401@gmail.com**
 
